@@ -50,7 +50,7 @@ int main()
 {
     setlocale(LC_ALL, "ru");
     
-    Student st ("Егорова Валерия", 9, "Политехнический институт");
+    Student st ("Филиппова Анна", 9, "Политехнический институт");
     pass p;
     p.S(st);
     return 0;
